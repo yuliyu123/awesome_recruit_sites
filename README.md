@@ -1,5 +1,5 @@
 
-This rep focus on oversea recruit sites, interview skills and English practice sites(listen and oral), including Sinagpore, Japan, Europen, Crypto(mostly support remote). Welcome anyone contribute to this rep.
+This rep focus on oversea recruitment sites, interview skills and English practice sites(listen and oral), including Sinagpore, Japan, Europen, Crypto(mostly support remote). Welcome anyone contribute to this rep.
 
 # Jobs
 ## All over the world
