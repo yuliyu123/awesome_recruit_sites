@@ -60,6 +60,9 @@ https://github.com/yifeikong/reverse-interview-zh
 
 https://github.com/Interview-Science/interview-english
 
+# Resume Template
+https://github.com/sb2nov/resume
 
 # English practice
 https://www.pramp.com/
+
